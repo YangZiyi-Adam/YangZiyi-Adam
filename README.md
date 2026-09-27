@@ -1,4 +1,4 @@
-# Hi, I'm Ziyi (Adam) Yang 👋
+# Hi, I'm Ziyi Yang 👋
 
 I'm an Honours BSc student in **Mathematics and Physics at the University of Toronto**. I work across quantum computing, many-body physics, and data-driven modeling of physical systems. I enjoy connecting mathematical ideas with simulations, experiments, and practical analysis.
 
